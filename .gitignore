@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vs/eshop-microservices
+/src/Services/Catalog/Catalog.API/obj
+*.csproj
+*.user
+*.sln
