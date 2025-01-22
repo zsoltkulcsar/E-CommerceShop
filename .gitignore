@@ -7,3 +7,4 @@
 *.csproj
 *.user
 *.sln
+/src/Services/Catalog/Catalog.API/bin/Debug/net8.0
